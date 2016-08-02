@@ -53,6 +53,15 @@ If you choose a license that allows people to share your work, it can get repost
 
 If you want to make it easier on the editors of those publications, it’s helpful to publish a raw Markdown or Html version of your post somewhere. For example, see how Rich did that at the very end of [this post](https://medium.com/@richdecibels/occupiers-from-tunisia-spain-new-zealand-taiwan-and-france-compare-notes-5c6cc6d3afd3#.5ufyt410n).
 
+## Cross Posting to Scoop InfoPages
+We have an Enspiral InfoPage account on Scoop.co.nz here http://info.scoop.co.nz/Enspiral
+This website has 500'000 monthly views and very good google indexing so visibility and impact will be increased by posting medium blogs there also. 
+
+The process for submitting content to infopages is as follows:
+1 Write your post,
+2 put it on gist in some clean format like markdown, 
+3 Copy it into Medium if you like,
+4 Email the gist to editor@scoop.co.nz and ask a person to put it up on Enspiral's infopages - you could specify an image to use.
 
 ## Impact
 The results have been great: about 30 people have written stories, growing the publication to 600 followers, getting about 10k hits in a month.
